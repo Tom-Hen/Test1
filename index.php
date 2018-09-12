@@ -36,4 +36,4 @@ if($mode !== null){
 	<input name="text" type="text"></input>
 	<button>Submit</button>
 </form>
-<p>This is just to change the branch</p>
+<p>Branch changed successfully wahoooo</p>
