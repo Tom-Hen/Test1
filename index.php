@@ -37,5 +37,3 @@ if($mode !== null){
 	<button>Submit</button>
 </form>
 <p>Branch changed successfully wahoooo</p>
-
-<h1>This is branch 2</h1>
